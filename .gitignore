@@ -1,0 +1,19 @@
+# Compiled
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
